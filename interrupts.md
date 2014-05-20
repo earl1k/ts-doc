@@ -24,7 +24,7 @@
 
 	Биты  7   6   5   4   3   2    1    0
           -   -   -   -   -  DMA LINE FRAME
-	R/W                       WO   WO   WO
+	R/W                       W    W    W
 	Init  x   x   x   x   x   0    0    1
 
 * Бит 0 - разрешение источника *FRAME*,
