@@ -5,7 +5,7 @@
 * [Управление процессором][cpu]
 	* [Изменение частоты работы процессора][cpu#clock]
 	* [Кэширование запросов к RAM][cpu#cache] 
-* Управление памятью
+* [Управление памятью][memory]
 * [Контроллер прерываний][interrupts]
 * Контроллер DMA
 * Графика
@@ -17,5 +17,6 @@
 [cpu]: cpu.md
 [cpu#clock]: cpu.md#clock
 [cpu#cache]: cpu.md#cache
+[memory]: memory.md
 [interrupts]: interrupts.md
 [TSConf.xls]: http://zx-evo-fpga.googlecode.com/hg/pentevo/docs/TSconf/TSconf.xls
