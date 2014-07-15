@@ -9,7 +9,7 @@
 	* [Управление портом $7FFD][memory#7ffd]
 	* [Маппинг страниц в окне 0][memory#mapping] 
 * [Контроллер прерываний][interrupts]
-* Контроллер DMA
+* [Контроллер DMA][dma]
 * Графика
 
 ---
@@ -23,4 +23,5 @@
 [memory#7ffd]: memory.md#7ffd
 [memory#mapping]: memory.md#mapping
 [interrupts]: interrupts.md
+[dma]: dma.md
 [TSConf.xls]: http://zx-evo-fpga.googlecode.com/hg/pentevo/docs/TSconf/TSconf.xls
